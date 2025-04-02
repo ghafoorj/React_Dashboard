@@ -107,7 +107,7 @@ const Sidebar = () => {
                   fontWeight="bold"
                   sx={{ m: "10px 0 0 0" }}
                 >
-                  Junaid Ghafoor
+                  Jamie Here
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
                   VP BadPanda
